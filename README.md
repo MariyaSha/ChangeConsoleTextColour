@@ -7,7 +7,7 @@ This code was created for this video tutorial:
 https://youtu.be/aftw0WX4oCc
 <br>
 <br>
-![ss](https://user-images.githubusercontent.com/32107652/139530468-48c47acb-b3b8-44e1-a88f-02f4250035ba.jpg)
+![ss](https://user-images.githubusercontent.com/32107652/139530539-9669fb74-5fda-432c-87b0-a5be9321f656.png)
 <br>
 <br>
 Author: Mariya Sha
