@@ -2,7 +2,7 @@
 a simple function that randomly generates and applies console text colors
 <br>
 <br>
-This code was created for this video tutorial:
+This repository corresponds to my <b>Python Functions for Beginners<b/> video tutorial:
 <br>
 https://youtu.be/aftw0WX4oCc
 <br>
