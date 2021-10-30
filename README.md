@@ -2,7 +2,7 @@
 a simple function that randomly generates and applies console text colors
 <br>
 <br>
-This repository corresponds to my <b>Python Functions for Beginners<b/> video tutorial:
+This repository corresponds to my <b>Python Functions for Beginners</b> video tutorial:
 <br>
 https://youtu.be/aftw0WX4oCc
 <br>
@@ -10,10 +10,10 @@ https://youtu.be/aftw0WX4oCc
 ![ss](https://user-images.githubusercontent.com/32107652/139530539-9669fb74-5fda-432c-87b0-a5be9321f656.png)
 <br>
 <br>
-Author: Mariya Sha
+<b>Author</b>: Mariya Sha
 <br>
-Modules: random, sty
+<b>Modules</b>: random, sty
 <br>
-IDE in screenshot: Wayscript X
+<b>IDE in screenshot</b>: Wayscript X
 <br>
 <br>
